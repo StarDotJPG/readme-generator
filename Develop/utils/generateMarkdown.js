@@ -62,7 +62,7 @@ function generateMarkdown(data) {
   ${data.testInstructions}
 
   ## Questions
-  For questions, refer to my Github: [${data.github}](https://github.com/StarDotJPG/${data.github}) or e-mail me at: [${data.email}](mailto:${data.email})
+  For questions, refer to my Github: [${data.github}](https://github.com/${data.github}) or e-mail me at: [${data.email}](mailto:${data.email})
 `;
 }
 
