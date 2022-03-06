@@ -1,7 +1,7 @@
-# Project Title [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)]
+# Project Title ![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)
 
   ## Description
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Odio eu feugiat pretium nibh ipsum. Vulputate mi sit amet mauris commodo quis imperdiet.
+  Semper viverra nam libero justo laoreet sit amet. Tortor posuere ac ut consequat semper viverra nam. Duis at tellus at urna condimentum. Feugiat pretium nibh ipsum consequat nisl vel pretium lectus quam. Elementum eu facilisis sed odio morbi quis. 
 
   ## Table of Contents
   - [Installation](#installation)
@@ -11,19 +11,19 @@
   - [Test Instructions](#tests)
 
   ## Installation
-  it amet risus nullam eget felis. Eget est lorem ipsum dolor sit. Ultrices sagittis orci a scelerisque. Aliquet bibendum enim facilisis gravida neque.
+  Montes nascetur ridiculus mus mauris vitae. Lorem ipsum dolor sit amet consectetur adipiscing elit ut aliquam. Maecenas ultricies mi eget mauris pharetra et ultrices neque ornare. 
 
   ## Usage
-  Et tortor consequat id porta nibh venenatis cras. Varius duis at consectetur lorem. Convallis tellus id interdum velit laoreet. Enim diam vulputate ut pharetra sit. Mattis nunc sed blandit libero volutpat sed.
+  Nullam vehicula ipsum a arcu cursus vitae congue. Est lorem ipsum dolor sit. Risus sed vulputate odio ut enim blandit. 
   
   ## License
-  This application is covered under the GNU GPLv3 license. For more information, see: https://www.gnu.org/licenses/gpl-3.0
+  This application is covered under the Mozilla Public Licesne 2.0 license. For more information, see: https://opensource.org/licenses/MPL-2.0
   
   ## Contributing
-  Semper viverra nam libero justo laoreet sit amet. Tortor posuere ac ut consequat semper viverra nam.
+  Et tortor consequat id porta nibh venenatis cras. Varius duis at consectetur lorem. Convallis tellus id interdum velit laoreet. Enim diam vulputate ut pharetra sit.
 
   ## Tests
-  Duis at tellus at urna condimentum. Feugiat pretium nibh ipsum consequat nisl vel pretium lectus quam. Elementum eu facilisis sed odio morbi quis.
+  Mattis nunc sed blandit libero volutpat sed.
 
   ## Questions
-  For questions, concerns, or comments, please refer to my Github: stardotjpg or email me at: jason.greenia@gmail.com
+  For questions, refer to my Github: [stardotjpg](https://github.com/StarDotJPG/stardotjpg) or e-mail me at: [jason.greenia@gmail.com](mailto:jason.greenia@gmail.com)
