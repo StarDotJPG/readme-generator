@@ -144,8 +144,11 @@ function init() {
             return generateMarkdown(data)
         })
         .then(markdown => {
-            writeToFile("./dist/readme.md", markdown)
-        });
+            return writeToFile("./dist/readme.md", markdown)
+        })
+        .then(writeFileResponse => {
+            console.log(writeFileResponse)
+        })
 }
 
 // Function call to initialize app
